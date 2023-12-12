@@ -9,7 +9,7 @@
 ### 💥  About Me
   
 - 🎮 Passionate about technology, games and music.
-- 📖 Studying full stack web development at <a href="https://blueedtech.com.br/">BlueEdTech</a>.
+- 📖 Studying full stack web development at <a href="https://ada.tech">ADA</a>.
  
  <br>
  
