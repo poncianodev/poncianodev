@@ -1,10 +1,10 @@
 <img src="https://komarev.com/ghpvc/?username=poncianodev&color=blueviolet&style=flat">
-<div align='center'>
-    <a href="https://github.com/poncianodev">
-    <img src='https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif' height='128px' weidth'128px' target="_blank"><br>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%ffffff&center=true&vCenter=true&multiline=true&width=500&height=65&lines=Hello+Friend!;My+name+is+Lucas+Ponciano+and+I'm+a+Developer">
-  </a></div><br><br>
- 
+
+<br>
+👋 Hi, I'm Lucas Ponciano, a Full Stack Developer 💻
+
+ <br>
+ <br>
 
 ### 💥  About Me
   
