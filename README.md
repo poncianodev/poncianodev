@@ -9,7 +9,7 @@
 ### 💥  About Me
   
 - 🎮 Passionate about technology, games and music.
-- 📖 Bachelor's Degree Student in Systems Analysis and Development at Unifatecie.
+- 📖 Bachelor's Degree Student in Cross-platform Software Development at Fatec.
  
  <br>
 
