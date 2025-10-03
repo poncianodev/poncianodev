@@ -19,8 +19,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ponciano/)
 [![Instagram](https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/poncianodev/)
 
-
-https://www.instagram.com/poncianodev/
 <h1></h1>
 
 <h1>Technology and frameworks</h1>
